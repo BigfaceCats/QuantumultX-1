@@ -1,7 +1,7 @@
-DOMAIN-SUFFIX,limbopro.xyz,🎯 全球直连
+DOMAIN-SUFFIX,limbopro.xyz,🚀 节点选择
 # DOMAIN-KEYWORD,youtube,🌏Global
-DOMAIN-SUFFIX,dribbble.com,🎯 全球直连
-DOMAIN-KEYWORD,behance,🎯 全球直连
-DOMAIN-KEYWORD,github,🎯 全球直连
+DOMAIN-SUFFIX,dribbble.com,🚀 节点选择
+DOMAIN-KEYWORD,behance,🚀 节点选择
+DOMAIN-KEYWORD,github,🚀 节点选择
 host-keyword, adsite, reject
 host-keyword, spotify, 🎧 spotify
