@@ -4,5 +4,5 @@ DOMAIN-SUFFIX,dribbble.com,🚀 节点选择
 DOMAIN-KEYWORD,behance,🚀 节点选择
 DOMAIN-KEYWORD,github,🚀 节点选择
 host-keyword, adsite, reject
-host-keyword, spotify, 🎧 spotify
-host-suffix, spotify.com, 🎧 spotify
+host-keyword, spotify, 🐟 漏网之鱼
+host-suffix, spotify.com, 🐟 漏网之鱼
